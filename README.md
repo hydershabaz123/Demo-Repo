@@ -1,2 +1,4 @@
-# Demo-Repo
-My Repo for Demo
+our demo is completed
+thank you
+git 
+github
